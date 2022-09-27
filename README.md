@@ -11,19 +11,17 @@ I am selftaught enthusiastic Full Stack Developer 🌐, App Developer 📱 anda 
 
 ### 🧐 More About Me:
 - 🔭 &nbsp; I’m currently working on **Web 3 property platform**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
+- 🌱 &nbsp; I’m currently learning NextJS and Typescript; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/crater90?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 💬 &nbsp; Ask me about anything related to Javascript/Typescript/React/Next/Node
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mohdkamran07/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1dXGoZGmbGgEus8OdQ7ymMhCy4esYEw3X/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
 
 <br/>
 
 ### 💼 Languages and Tools:
 <br/>
+
 <p>
 <img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -35,14 +33,28 @@ I am selftaught enthusiastic Full Stack Developer 🌐, App Developer 📱 anda 
 <img src="https://img.shields.io/badge/-VSCode-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> 
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+<br/>
 
-[![crater's GitHub stats](https://github-readme-stats.vercel.app/api?username=crater90&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crater90)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=crater90&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crater90&layout=compact" />
+</a>
+<br/>
+  
+### 📕  Latest Blog Posts
+
+- [Beginners guide to NextJS...](https://dev.to/crater90/beginners-guide-to-nextjs-3ge)
+- [5 GitHub Repositories for learning developers...](https://dev.to/crater90/5-github-repositories-for-learning-developers-4kn6)
+- [Introduction to Git and GitHub](https://dev.to/crater90/introduction-to-git-and-github-d0d)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=crater90.crater90)
 
 <!---
 crater90/crater90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
